@@ -1,16 +1,11 @@
 # Curso GRATUITO de Laravel 10.x
 
-- :movie_camera: [Acesse o Curso](https://academy.especializati.com.br/curso/laravel-10-gratuito).
-
-
-Links Úteis:
-
-- :tada: [Saiba Mais](https://linktr.ee/especializati)
+- :movie_camera: [Acesse o Curso](https://github.com/svasconcellosj/curso-de-laravel-10).
 
 ## Passo a passo para rodar o projeto
 Clone o projeto
 ```sh
-git clone https://github.com/especializati/curso-de-laravel-10.git laravel-10
+git clone https://github.com/svasconcellosj/curso-de-laravel-10.git laravel-10
 ```
 ```sh
 cd laravel-10/
